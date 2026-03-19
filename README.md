@@ -86,8 +86,6 @@ AI-pharmacy-homework/
 ├── scripts/
 │   ├── pipeline_core.py     # логика пайплайна
 │   └── run_pipeline.py      # CLI
-├── notebooks/
-│   └── molecule_discovery_pipeline.ipynb
 ├── artifacts/               # результаты прогонов
 ├── config.py                # пример аргументов для inference
 ├── requirements-pipeline.txt
